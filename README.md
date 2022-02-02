@@ -31,3 +31,5 @@
  ##
  
  ![Snake animation](https://github.com/Mayonsmar/Mayonsmar/blob/output/github-contribution-grid-snake.svg)
+</  div>
+
